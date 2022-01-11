@@ -1,0 +1,2 @@
+# proglog
+A commit log.
